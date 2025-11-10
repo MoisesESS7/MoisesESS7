@@ -27,8 +27,6 @@ Valorizo **qualidade de código**, **clareza na comunicação** e **colaboraçã
 
 💡 **[Projeto PDI](https://github.com/MoisesESS7/PDI)** — Implementação completa de **CQRS + Clean Architecture**, com integração RabbitMQ, API Gateway (Ocelot) e testes automatizados.
 
-*(Você pode adicionar os links reais dos repositórios acima quando quiser!)*
-
 ---
 
 ## 🧩 Interesses Atuais
