@@ -31,17 +31,19 @@ Tecnologias e ferramentas utilizadas de forma prática em projetos backend .NET.
 
 ---
 
-## 🚀 Projetos em Destaque
+🚀 Projetos em Destaque
 
-💡 **[Person Service](https://github.com/MoisesESS7/PDI)** — Implementação completa de **CQRS + Clean Architecture**, com integração RabbitMQ, API Gateway (Ocelot) e testes automatizados.
+💡 Person Service  
+Microsserviço backend desenvolvido em .NET, estruturado com Clean Architecture e CQRS, refletindo práticas amplamente utilizadas em ambientes corporativos.
 
-API backend desenvolvida em .NET, estruturada com Clean Architecture e CQRS, que evoluiu gradualmente para um serviço independente, incorporando:
+O projeto evoluiu de uma API monolítica para um serviço independente, incorporando gradualmente padrões de arquitetura distribuída e qualidade de código, incluindo:
 
-- Separação clara de camadas
-- Integração com RabbitMQ
-- Uso de API Gateway (Ocelot)
-- Testes automatizados e documentação via Swagger
-- Preparação para Docker e CI/CD
+• Separação clara de camadas e responsabilidades  
+• Testes automatizados com foco em confiabilidade e manutenção  
+• Documentação de APIs com Swagger/OpenAPI  
+• Estrutura preparada para containerização (Docker) e pipelines de CI/CD  
+
+Este repositório reflete a aplicação prática de conceitos de backend .NET moderno, com ênfase em escalabilidade, organização e boas práticas de engenharia de software.
 
 ---
 
