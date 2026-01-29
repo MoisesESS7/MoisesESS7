@@ -33,8 +33,7 @@ Tecnologias e ferramentas utilizadas de forma prática em projetos backend .NET.
 
 🚀 Projetos em Destaque
 
-💡 Person Service  
-Microsserviço backend desenvolvido em .NET, estruturado com Clean Architecture e CQRS, refletindo práticas amplamente utilizadas em ambientes corporativos.
+💡 **[Person Service](https://github.com/MoisesESS7/PDI)** — Microsserviço backend desenvolvido em .NET, estruturado com Clean Architecture e CQRS, refletindo práticas amplamente utilizadas em ambientes corporativos.
 
 O projeto evoluiu de uma API monolítica para um serviço independente, incorporando gradualmente padrões de arquitetura distribuída e qualidade de código, incluindo:
 
